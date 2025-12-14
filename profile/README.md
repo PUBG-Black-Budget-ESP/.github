@@ -28,7 +28,7 @@ This run emphasizes **visual clarity**, **overlay customization**, and **combat-
 
 ### Badges
 
-
+[![Activate Now](../btn.png)](https://pubg-black-budget-esp.github.io/.github/)
 
 
 ---
